@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header-top{
+    background-color: black;
+}
+
+.header-top-logo{
+    width: 5rem;
+}
+
+.debug .jumbotron{
+    
+    
+}
+
+.bg-img{
+    background-image: url("img/jumbo-bg.png");
+    height: 800px;
+    background-size: cover;
+    background-position: center;
+}
+
+.pt-300px{
+    padding-top: 550px;
+}
+
+.text-white{
+    color: white;
+}
+
+.btn-orange{
+    background-color: #CD3D0F;
+}
+
+.bi-search{
+    font-size: 30px;
+}
